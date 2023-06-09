@@ -1,6 +1,9 @@
 <a name="readme-top"></a>
+<p align="center">
+  <img src="Mylogo.png" alt="Logo">
+</p>
 
-![Logo](Mylogo.png)
+
 
 # 📗 Table of Contents
 
