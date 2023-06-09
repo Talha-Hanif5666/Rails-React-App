@@ -1,0 +1,5 @@
+Message.create!(content: 'Welcome to the Rails-React App!')
+Message.create!(content: 'Hello, friend!')
+Message.create!(content: 'Greetings and salutations!')
+Message.create!(content: 'Hey there, stranger!')
+Message.create!(content: 'Warmest welcome to our app!')
