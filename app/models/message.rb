@@ -1,4 +1,3 @@
 class Message < ApplicationRecord
-    attribute :content, :string
-  end
-  
+  attribute :content, :string
+end
